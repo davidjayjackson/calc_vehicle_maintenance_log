@@ -63,6 +63,9 @@ Both samples demonstrate all sheets, conditional formatting, upcoming-service al
 
 ## Preview
 
+### Template Overview
+![Template screenshot](screenshot-template.png)
+
 ### Fuel Economy Trend
 ![Fuel Economy](plot-fuel-economy.png)
 
