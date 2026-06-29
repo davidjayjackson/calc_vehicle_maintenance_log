@@ -63,8 +63,11 @@ Both samples demonstrate all sheets, conditional formatting, upcoming-service al
 
 ## Preview
 
-### Template Overview
-![Template screenshot](screenshot-template.png)
+### Template Overview — 1967 Ford Mustang GT 390
+![Mustang sample screenshot](screenshot-template.png)
+
+### Template Overview — 1971 Jaguar E-Type Series III V12
+![Jaguar sample screenshot](screenshot-jaguar.png)
 
 ### Fuel Economy Trend
 ![Fuel Economy](plot-fuel-economy.png)
